@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Diario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mandatory">All fields are mandatory</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="password_length">Password length should be greater than 5</string>
+    <string name="preference_file_key">io.github.a2en.mydiario.PREF_KEY</string>
+</resources>
