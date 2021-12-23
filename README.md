@@ -18,9 +18,22 @@ It leverages the following components from the Jetpack library:
 
 ## Screenshots
 
-###First screen of the app is for the user to choose between 
+> First screen of the app is for the user to choose between login and sign up
+
 ![Screenshot 1](screenshots/screen_1.png)
+
+> User can register on the sign up screen
+
 ![Screenshot 2](screenshots/screen_2.png)
+
+> User can login to the app in this screen
+
 ![Screenshot 3](screenshots/screen_3.png)
+
+> User can see his diary entries and also delete them  here 
+
 ![Screenshot 4](screenshots/screen_4.png)
+
+>User can add the diary entry with current location and date in this screen
+
 ![Screenshot 5](screenshots/screen_5.png)
