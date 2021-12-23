@@ -20,20 +20,21 @@ It leverages the following components from the Jetpack library:
 
 > First screen of the app is for the user to choose between login and sign up
 
-![Screenshot 1](screenshots/screen_1.png)
+<img src="screenshots/screen_1.png" width="200" />
 
-> User can register on the sign up screen
+> User can register on the sign up screen. Here we are using motion layout to animate the views. We use retrofit and moshi to communicate with 
+> the REST API
 
-![Screenshot 2](screenshots/screen_2.png)
+<img src="screenshots/screen_2.png" width="200" />
 
-> User can login to the app in this screen
+> User can login to the app in this screen, we also use motion layout here to animate the views
 
-![Screenshot 3](screenshots/screen_3.png)
+<img src="screenshots/screen_3.png" width="200" />
 
-> User can see his diary entries and also delete them  here 
+> User can see his diary entries and also delete them  here. We are using room and retrofit here to show the entries
 
-![Screenshot 4](screenshots/screen_4.png)
+<img src="screenshots/screen_4.png" width="200" />
 
 >User can add the diary entry with current location and date in this screen
 
-![Screenshot 5](screenshots/screen_5.png)
+<img src="screenshots/screen_5.png" width="200" />
